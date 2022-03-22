@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jocnn
-- 👀 I’m interested in javascript, react, css3, html, etc
-- 🌱 I’m currently learning reactjs, frontend.
+- 👀 I’m interested in javascript, react, css3, html, go etc
+- 🌱 I’m currently learning mern stack and golang.
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me, Tg: jose_nn
 
