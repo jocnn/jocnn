@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm jocnn</h1>
-<h3 align="center">A passionate frontend developer living in Argentina</h3>
+<h1 align="center">Hi 👋, I'm joc</h1>
+<h3 align="center">A developer living in Argentina</h3>
 
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,17 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/ijann_" target="blank"><img src="https://img.shields.io/twitter/follow/ijann_?logo=twitter&style=for-the-badge" alt="ijann_" /></a> </p>
 
-- 🌱 I’m currently learning **in NextJS, GatsbyJS, Strapy and Graphql**
+- 🌱 I’m currently learning **Django, Api, NextJS, GatsbyJS, Strapy and Graphql**
 
 - 👯 I’m looking to collaborate on **projects open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jocnn](https://github.com/jocnn)
 
-- 💬 Ask me about **Micro State Management with React Hooks**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **jocnndev@gmail.com**
 
-- ⚡ I'm studing in Udemy to be FullStack **the courses of "React - La Guía Completa" and "CSS - La Guía Completa", coming soon "Node.js - Bootcamp Desarrollo Web"**
+- 📚️ I am reading to **William S. Vincent**
+
+- ⚡ also studing the courses in Udemy that are **"React - La Guía Completa" and "CSS - La Guía Completa", coming soon "Node.js - Bootcamp Desarrollo Web"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
