@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm joc</h1>
-<h3 align="center">A developer living in Argentina</h3>
+<h3 align="center">I am a systems engineer, living in Argentina</h3>
 
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -21,9 +21,17 @@
 
 - 📫 How to reach me **jocnndev@gmail.com**
 
-- 📚️ I am reading to **William S. Vincent**
+- 📚️ I am reading to **William S. Vincent** his books Django Beginners (finalized), Django Web Apis (finalized) and Django Professionals 
 
-- ⚡ also studing the courses in Udemy that are **"React - La Guía Completa" and "CSS - La Guía Completa", coming soon "Node.js - Bootcamp Desarrollo Web"**
+- ⚡ also studing the courses in Udemy that are **"CSS - La Guía Completa", to conclude "React - La Guía Completa" and coming soon "Node.js - Bootcamp Desarrollo Web"**
+
+- :rocket: Currently, I'm studying the program: One - Oracle Next Education with its educational partner <a href="https://www.aluracursos.com/?source=:ow:o:h:mt:::RC_WWMK210810P00072:LA22_GEN_OC_CO30_M3905_SO037YO01_DO0871_AO01_RO001" >Alura Latam</a> started in July 2022 until January 2023
+
+<p align="center" >
+  <a href="https://www.oracle.com/ar/education/oracle-next-education/#about-course">
+    <img src="https://www.oracle.com/a/ocom/img/rh03-one-v-black-lad.png" object-fit="contain" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
